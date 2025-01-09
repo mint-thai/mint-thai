@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Mint! 😁
 
-Welcome to my GitHub profile! I'm a **Data Analyst** with diverse experience in **Product Management, Finance, Retail, and IT**. I'm pursuing an Applied Data Science Post-Baccalaureate Diploma at Thompson Rivers University.
+Welcome to my GitHub profile! ✌️
+
+I'm a **Data Analyst** with diverse experience in **Product Management, Finance, Retail, and IT**. I'm pursuing an Applied Data Science Post-Baccalaureate Diploma at Thompson Rivers University.
 
 I enjoy solving problems, optimizing processes, and uncovering insights through data to create impactful and efficient solutions.
 
